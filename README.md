@@ -1,5 +1,5 @@
 # PROJETO ESCOLAR
-## Curriculo online Jane Doe 
+## Currículo online Jane Doe 
 
 # Sobre o projeto
 
