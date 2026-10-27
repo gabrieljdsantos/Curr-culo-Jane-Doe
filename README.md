@@ -1,4 +1,4 @@
-# PROJETO ESCOLAR
+# PROJETO ACADÊMICO
 ## Currículo online Jane Doe 
 
 # Sobre o projeto
